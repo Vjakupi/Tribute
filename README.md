@@ -19,16 +19,16 @@ I used VS Code and Github, preferring to gain practice with version control and 
 * Vanilla CSS
 * [VSCode](https://code.visualstudio.com/) - Text Editor
 * [W3C](https://validator.w3.org/) - HTML and CSS validation 
-* [MDN](https://developer.mozilla.org/en-US/) - Used to generate RSS Feeds
+* [MDN](https://developer.mozilla.org/en-US/) - Their documentation is always a great help 
 
 
 ## Versioning
 
-For all purposes intended, this is Mach 1 of my Judit website. I hope to return to it one day with better skill and give it to the precision and design worthy of one of Chess's greatest champions.
+For all purposes intended, this is Mach 1 of my Judit website. I hope to return to it and improve it more and more as I skill up. 
 
 ## Authors
 * **Valon Jakupi** - Authored all code as well as the original contents of the README
-* **Billie Thompson** - Creator of this template.
+* **Billie Thompson** - Creator of this ReadME template.
 
 
 ## Acknowledgments
