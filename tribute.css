@@ -1,0 +1,50 @@
+body {
+    background: #f1faee;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #1d3557;
+    
+}
+
+figure {
+    border: thin #a8dadc solid;
+    display: block;
+    padding: 5px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+figcaption {
+    background: #457b9d;
+    color: #fff;
+    text-align: center;
+}
+
+li {
+    margin: 16px 0;
+    
+}
+
+    .responsive {
+        width: 100%;
+        height: auto;
+    }
+
+.headline {
+    text-align: center;
+}
+
+img{
+    margin: 20px;
+    width: 80%;
+    height: auto;
+    max-width: 100% ;
+    position: relative;
+    margin: auto;
+    display: block;
+  }
