@@ -1,10 +1,12 @@
 # Tribute Page
 
-This project is a prompt for a junior web developer to experiment with writing valid HTML with the aid of vanilla CSS. My main goal with this project wasn't perfection. It was to get comfortable moving away from tutorials. The primary goals were image responsiveness, proper use of class and ID tags as well as an eye toward accessibility. The project was a great learning experience. While I exhibited a brief shock at how much I "didn't know" upon starting, at the other end of it, I feel more confident than ever.
+This project is a prompt for a junior web developer to experiment with writing valid HTML with the aid of vanilla CSS. As with my tribute page, I did not aim for perfection. This time around, the main objective was to start understanding labeling and proper ways to implement classes into my code. 
+
+I will be honest in saying even my very humble survey form was a great challange for me to get done. I look forward to returning it to perfect the styling as well as refine the HTML. I know it could be much better than it is now.
 
 ## Getting Started
 
-If you'd like to try this prompt as well, I reccomend going to the FreeCodeCamp page here https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page 
+If you'd like to try this prompt as well, I reccomend going to the FreeCodeCamp page here https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
 
 The Codepen included is where I drew the inspiration for my own tribute page. 
 
@@ -23,8 +25,7 @@ I used VS Code and Github, preferring to gain practice with version control and 
 
 
 ## Versioning
-
-For all purposes intended, this is Mach 1 of my Judit website. I hope to return to it and improve it more and more as I skill up. 
+V 1.0 - Basic HTML skeleton, basic CSS styling
 
 ## Authors
 * **Valon Jakupi** - Authored all code as well as the original contents of the README
@@ -33,5 +34,4 @@ For all purposes intended, this is Mach 1 of my Judit website. I hope to return 
 
 ## Acknowledgments
 * **Billie Thompson** - *ReadME template* - [PurpleBooth](https://github.com/PurpleBooth)
-* Credit to Wikipedia from which I plucked the facts of Judit's life. I do not claim ownership over any writing within the website and attribute it to all its proper authors.
-* Great thanks to the Web Dev & Design Discord, which guided me along the path of not only getting this site done, but getting it done with quality code.
+* Thanks to /r/chessclub for the chess lessons in exchange for web dev work probably worth slightly less than the instruction provided!
